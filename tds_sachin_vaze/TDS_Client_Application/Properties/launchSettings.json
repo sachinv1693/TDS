@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TDS_Client_Application": {
+      "commandName": "Project",
+      "commandLineArgs": "taskmgr task-add \"C:\\\\P-101 Assignments\\\\python_list_dict_pass_by_reference.py\""
+    }
+  }
+}
